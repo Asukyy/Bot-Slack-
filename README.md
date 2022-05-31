@@ -1,5 +1,5 @@
 # Bot-Slack-
-program your bot pour all your event
+program your bot for all your event
 
 you've to install node before:
 
