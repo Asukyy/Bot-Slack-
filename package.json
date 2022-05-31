@@ -1,0 +1,25 @@
+{
+  "name": "botslack-paatch",
+  "version": "1.0.0",
+  "description": "BotPaatch",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Asukyy/botSlack-Paatch.git"
+  },
+  "author": "Mathis Boulais",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Asukyy/botSlack-Paatch/issues"
+  },
+  "homepage": "https://github.com/Asukyy/botSlack-Paatch#readme",
+  "dependencies": {
+    "@slack/bolt": "^3.11.1",
+    "axios": "^0.27.2",
+    "dotenv": "^16.0.1",
+    "slackbots": "^1.2.0"
+  }
+}
