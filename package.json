@@ -1,7 +1,7 @@
 {
-  "name": "botslack-paatch",
+  "name": "botslack",
   "version": "1.0.0",
-  "description": "BotPaatch",
+  "description": "BotSlack",
   "main": "main.js",
   "scripts": {
     "start": "node main.js"
